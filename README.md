@@ -1,2 +1,12 @@
-# Siddhartha
-PhD in Physics with 5+ years of experience in mathematical modeling, data-driven algorithm development, and numerical analysis. Strong background in Python-based statistical modeling, machine learning, and rigorous validation of complex models.
+# Hi there, I'm Siddhartha! 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io)
+
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.appSiddhartha7198&show_icons=true&theme=radical)

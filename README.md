@@ -6,10 +6,9 @@ Focused on financial modeling, statistics, and data-driven decision making.
 ---
 
 ## 🎯 Current Focus
-- Learning Git & Version Control
-- Strengthening Python for quantitative finance
-- Practicing probability, statistics, and linear algebra
+- Learning Model validation and Risk methodology
 - Exploring financial markets and derivatives
+- SAS/SPSS
 
 ---
 
@@ -34,7 +33,9 @@ Focused on financial modeling, statistics, and data-driven decision making.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha7198&show_icons=true&theme=dark)
+<p align="center">
+ <img src="./profile/stats.svg" alt="Stats" />
+</p>
 
 ---
 

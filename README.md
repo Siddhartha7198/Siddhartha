@@ -1,14 +1,12 @@
 # Hi, I'm Siddhartha 👋
 
-Aspiring Quantitative Research Analyst  
-Focused on financial modeling, statistics, and data-driven decision making.
+Focused on computational modeling, statistics, machine learning, and data-driven decision making.
 
 ---
 
 ## 🎯 Current Focus
 - Learning Model validation and Risk methodology
 - Exploring financial markets and derivatives
-- SAS/SPSS
 
 ---
 

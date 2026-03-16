@@ -17,7 +17,7 @@ I am currently interested in applying advanced AI methods to real-world systems,
 - Neural network likelihood estimation
 
 ---
-## 📊 Expertise
+## 📊 Machine Learning Expertise
 - Deep learning model development using PyTorch
 - Representation learning for complex and high-dimensional datasets
 - Generative models (GANs, autoencoders, latent variable models)
@@ -91,5 +91,6 @@ I am currently interested in opportunities in:
 
 ## 📫 Contact
 Email: siddhartha7198@gmail.com
+
 Location: Dresden, Germany
 
